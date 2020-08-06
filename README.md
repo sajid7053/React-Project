@@ -1,12 +1,4 @@
-# Laravel + ReactJS + MySQL Login and Registration
-
-![ReactJS Todo](../screenshots/react-login1.PNG)
-#
-![ReactJS Todo](../screenshots/react-login2.PNG)
-#
-![ReactJS Todo](../screenshots/react-login3.PNG)
-
-
 ## Setup
 
-Manually clone the repo and then run `npm install`.
+1. First run npm install in client folder
+2. Then run npm start
