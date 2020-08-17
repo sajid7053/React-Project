@@ -5,7 +5,7 @@ class Register extends Component {
     constructor() {
         super()
         this.state = {
-            first_name: '',
+            first1_name: '',
             last_name: '',
             email: '',
             password: '',
